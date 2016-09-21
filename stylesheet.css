@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background:red;
+	}
+.current{
+	color:blue;
+}
+a{
+	color:green;
+	text-decoration: none;
+}
