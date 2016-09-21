@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Untitled Document</title>
+<title>Page 3</title>
 </head>
 
 <body>
-</body>
-</html>
+<?php require_once('menu.php'); ?>
+<?php require_once('footer.php'); ?> 
